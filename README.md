@@ -43,4 +43,4 @@ The code prints and displays the accuracy of both the Decision Tree and Naive Ba
 For example:
 - "The accuracy of the Decision Tree is: 70.73% " and "The accuracy of NB is: 82.92% " are printed to the console, showing the accuracy of each classifier.
 
-The results provide insights into how well these algorithms perform in predicting loan approval status based on the given dataset. Further evaluation metrics and analysis could be added to enhance the project's insights.
+The results provide insights into how well these algorithms perform in predicting loan approval status based on the given dataset. 
